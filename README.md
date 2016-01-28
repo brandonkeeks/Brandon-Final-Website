@@ -1,1 +1,0 @@
-This repo has been created for me to track the progress of my personal site.
